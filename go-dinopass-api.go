@@ -107,7 +107,7 @@ func main() {
 			return
 		}
 
-		fmt.Printf("[%d] %s\n", i+1, pass)
+		fmt.Printf("%s\n", pass)
 
 		// Small delay to avoid spamming the API
 		if i < *count-1 {
