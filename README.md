@@ -8,3 +8,7 @@ You can view the usage of these scripts via the corresponding Medium article loc
 DinoPass API - https://medium.com/on-the-go-it/using-the-dinopass-api-to-generate-passwords-with-go-6b5f79223ea7
 
 FrankFurter API - https://medium.com/on-the-go-it/using-the-frankfurter-api-to-make-a-currency-converter-in-go-4403b8d0b2da
+
+**Windows Utils**
+
+Message Boxes, with auto timeout - https://medium.com/@Michael-H/using-user32-dll-to-show-message-boxes-using-go-40f1204267de
